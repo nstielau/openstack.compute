@@ -17,7 +17,7 @@ Release notes
       ``cloudservers``. Yes, the name's a lot longer. Use ``alias``.
       
     * The env variables are now ``OPENSTACK_COMPUTE_USERNAME`` and
-      ``OPENSTACK_COMPUTE_API_KEY``.
+      ``OPENSTACK_COMPUTE_APIKEY``.
 
 1.2 (August 15, 2010)
 =====================

@@ -27,14 +27,14 @@ variables by setting two environment variables:
 
     Your Rackspace Cloud username.
 
-.. envvar:: OPENSTACK_COMPUTE_API_KEY
+.. envvar:: OPENSTACK_COMPUTE_APIKEY
 
     Your API key.
 
 For example, in Bash you'd use::
 
     export COPENSTACK_COMPUTE_USERNAME=yourname
-    export COPENSTACK_COMPUTE_API_KEY=yadayadayada
+    export COPENSTACK_COMPUTE_APIKEY=yadayadayada
     
 From there, all shell commands take the form::
     

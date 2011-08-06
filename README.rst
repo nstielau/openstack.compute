@@ -35,7 +35,7 @@ with the ``--username`` and ``--apikey`` params, but it's easier to just set
 them as environment variables::
 
     export OPENSTACK_COMPUTE_USERNAME=jacobian
-    export OPENSTACK_COMPUTE_API_KEY=yadayada
+    export OPENSTACK_COMPUTE_APIKEY=yadayada
 
 You'll find complete documentation on the shell by running
 ``cloudservers help``::
@@ -79,7 +79,7 @@ You'll find complete documentation on the shell by running
 
     Optional arguments:
       --username USERNAME   Defaults to env[OPENSTACK_COMPUTE_USERNAME].
-      --apikey APIKEY       Defaults to env[OPENSTACK_COMPUTE_API_KEY].
+      --apikey APIKEY       Defaults to env[OPENSTACK_COMPUTE_APIKEY].
 
     See "openstack-compute help COMMAND" for help on a specific command.
 
